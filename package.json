@@ -1,0 +1,24 @@
+{
+  "name": "json-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bleachi/JSON-practice.git"
+  },
+  "author": "Bryan Leach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bleachi/JSON-practice/issues"
+  },
+  "homepage": "https://github.com/bleachi/JSON-practice#readme",
+  "dependencies": {
+    "load-json-file": "^5.1.0",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {}
+}
